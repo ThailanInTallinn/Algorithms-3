@@ -35,5 +35,7 @@ def get_factor(n, curr_low):
     return n
 
 
+print("Fatores de 36: ")
 factor(36, 1)
-
+print("Fatores de 100: ")
+factor(100, 2)
